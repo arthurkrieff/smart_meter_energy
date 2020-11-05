@@ -1,6 +1,6 @@
 # Smart Meter by BCM Energy
 
-This project was developed in the context of our Machine Learning II class at Ecole Polytechnique. It is extracted from the ENS Data Challenge website (https://challengedata.ens.fr/participants/challenges/29/). The goal is to predict the energy consumption of four home appliances (washing machine, fridge/freezer, TV and kettle) at a specific timestamp. 
+This project was developed in the context of our Machine Learning II class at Ecole Polytechnique. It is extracted from the ENS Data Challenge website. The goal is to predict the energy consumption of four home appliances (washing machine, fridge/freezer, TV and kettle) at a specific timestamp. 
 
 # Dataset
 The dataset contains an observation every minute and the main features are the following:
